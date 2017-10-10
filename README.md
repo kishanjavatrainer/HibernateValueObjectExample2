@@ -1,0 +1,1 @@
+# HibernateValueObjectExample2
